@@ -10,8 +10,8 @@ https://github.com/DirectOutput/TeensyStripController
 Uploaded ALFA version.
 
 Yet to be fixed:
-DOF cannot change Striplength, you have to alter the code. This is because I to late discovered that FASTLED library cannot change the strip length dynamically. So either I need to find a new libary or make a hack for fastled
 
-Version that do not use special directoutput.dll
+1. DOF cannot change Striplength, you have to alter the code. This is because I to late discovered that FASTLED library cannot change the strip length dynamically. So either I need to find a new libary or make a hack for fastled
+2. Version that do not use special directoutput.dll
 
 
